@@ -36,9 +36,7 @@ public class CheckoutApp{
 				units.set(position, (units.get(position) + number_of_units));
 			}
 
-			else{E> generic collection, which provides all the function-
-ality and performance of arrays, along with other useful capabilities such as dynamic
-resizing. We used the add methods to ad
+			else{
 
 				items.add(item_purchased);
 
